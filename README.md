@@ -1,2 +1,4 @@
 # GeoFS-Experiments
-A repository of all of the unreleased experimental addons I used to showcase in GeoFS Extras 2.0
+I've decided to upload all of my experimental addons from over the years that I never got around to finishing. <br>
+No guarantees that they all still function properly, you'll just have to test them yourself. <br>
+Feel free to do whatever with the code.
